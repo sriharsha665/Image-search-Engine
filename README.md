@@ -24,18 +24,18 @@ This project is a simple web application that allows users to search for images 
    ```bash
    git clone <repository-url>
    cd image-search-engine
-###Usage
-1.Type a keyword in the search box.
-2.Click the "Search" button to find images.
-3.Scroll through the results. Click on an image to view it on Unsplash.
-4.Click the "Show more" button to load additional images.
+## Usage
+1. Type a keyword in the search box.
+2. Click the "Search" button to find images.
+3. Scroll through the results. Click on an image to view it on Unsplash.
+4. Click the "Show more" button to load additional images.
 
-##License
-
+## License
 This project is licensed under the MIT License. Feel free to modify and use it as you wish.
 
-##Acknowledgments
--Unsplash API for providing access to a vast collection of free images.
+## Acknowledgments
+- [Unsplash API](https://unsplash.com/developers) for providing access to a vast collection of free images.
+
 
 
 ### Notes:
